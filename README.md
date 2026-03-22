@@ -31,9 +31,14 @@ Haz clic en el enlace de arriba o visita [https://ramontrrl.github.io/cards-flip
 ---
 
 ## 📁 Estructura del proyecto
-- `índice.html` - Página principal
-- `estilos.css` - Estilos visuales
-- `gracias/` - Imágenes utilizadas
+
+- [`index.html`](https://github.com/RamonTrrl/cards-flip/blob/main/index.html) – Página principal
+- [`styles.css`](https://github.com/RamonTrrl/cards-flip/blob/main/styles.css) – Estilos y animaciones
+- [`gracias/`](https://github.com/RamonTrrl/cards-flip/tree/main/gracias) – Carpeta de imágenes
+- [`Lalo.png`](https://github.com/RamonTrrl/cards-flip/blob/main/gracias/img/Lalo.png)
+- [`Ñata.png`](https://github.com/RamonTrrl/cards-flip/blob/main/gracias/img/Ñata.png)
+- [`papi_churro.jpeg`](https://github.com/RamonTrrl/cards-flip/blob/main/gracias/img/papi_churro.jpeg)
+- [`hnos_tv.png`](https://github.com/RamonTrrl/cards-flip/blob/main/gracias/img/hnos_tv.png)
 
 ---
 
