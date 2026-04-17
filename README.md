@@ -43,7 +43,7 @@ Haz clic en el enlace de arriba o visita [https://ramontrrl.github.io/cards-flip
 ---
 
 ## 🤝 Contribuciones
-Este es un proyecto familiar y personal, pero si tienes sugerencias, ¡y si crees que puedes mejorarlo y si te ocurrio la peregrina idea de que tu código será bienvenido...  pues NO😉🤣!
+Este es un proyecto familiar y personal, pero si tienes sugerencias, ¡y si crees que puedes mejorarlo y si te ocurrio la peregrina idea de que tu código será bienvenido...  pues sigue creyendo eso😉🤣!!
 
 ---
 
