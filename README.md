@@ -6,7 +6,7 @@
 
 ## 📸 Vista previa
 
-![Vista previa del proyecto](https://raw.githubusercontent.com/RamonTrrl/cards-flip/main/gracias/img/papi_churro.jpeg)
+![Vista previa](https://raw.githubusercontent.com/RamonTrrl/cards-flip/main/gracias/img/hnos_tv.png)
 
 ---
 
