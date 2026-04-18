@@ -12,7 +12,7 @@
 
 ## 📝 Descripción
 
-Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mostrando mensajes personalizados para cada uno de mis hermanos "TV". Fue creado con HTML y CSS.
+Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mostrando mensajes personalizados para cada uno de **"los hnos TV"**. Fue creado con HTML y CSS.
 
 ### ✨ Características
 - Diseño responsivo
@@ -26,7 +26,7 @@ Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mo
 ---
 
 ## 🚀 Cómo verlo en acción
-Haz clic en el enlace de arriba o visita [https://ramontrrl.github.io/cards-flip/](https://ramontrrl.github.io/cards-flip/)
+Haz clic en el enlace del encabezado o visita [https://ramontrrl.github.io/cards-flip/](https://ramontrrl.github.io/cards-flip/)
 
 ---
 
@@ -43,7 +43,7 @@ Haz clic en el enlace de arriba o visita [https://ramontrrl.github.io/cards-flip
 ---
 
 ## 🤝 Contribuciones
-Este es un proyecto familiar y personal, pero si tienes sugerencias, ¡y si crees que puedes mejorarlo y si te ocurrio la peregrina idea de que tu código será bienvenido...  pues sigue creyendo eso😉🤣!!
+Este es un proyecto familiar y personal, pero si tienes sugerencias, ¡y si crees que puedes mejorarlo y si te ocurrió la peregrina idea de que tu código será bienvenido...  pues sigue creyendo eso😉🤣!!
 
 ---
 
