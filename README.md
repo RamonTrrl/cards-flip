@@ -12,7 +12,7 @@
 
 ## 📝 Descripción
 
-Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mostrando mensajes personalizados para cada uno de **"los hnos TV"**. Fue creado con HTML y CSS.
+Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mostrando mensajes personalizados para cada uno de **"los hnos TV"**. Fue creado como una travesura en HTML y CSS.
 
 ### ✨ Características
 - Diseño responsivo
@@ -22,6 +22,7 @@ Este proyecto consiste en unas tarjetas interactivas que giran al hacer clic, mo
 ### 🛠️ Tecnologías usadas
 - HTML5
 - CSS3
+- Y Por supuesto unas migas de ingenio 💡
 
 ---
 
